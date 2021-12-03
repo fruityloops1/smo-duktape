@@ -1,0 +1,3 @@
+[version=100, target=main]
+StageScene::control+18:
+    bl stageSceneHook
